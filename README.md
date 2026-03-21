@@ -27,8 +27,8 @@ I'm a 2nd-year undergraduate student at **IIIT Raichur**, exploring the intersec
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=ffffff&text_color=ffffff&title_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan14344&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=ffffff&text_color=ffffff&title_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan14344&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff" alt="Top Languages" />
 </p>
 
 <!--
