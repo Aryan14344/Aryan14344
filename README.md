@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm [Your Name]
+# ⚡ Hi, I'm Aryan
 
 
 I'm a 2nd-year undergraduate student at **IIIT Raichur**, exploring the intersection of intelligent systems and secure networks. My current focus is on building a strong foundation in **Cybersecurity** and **Artificial Intelligence / Machine Learning**.
